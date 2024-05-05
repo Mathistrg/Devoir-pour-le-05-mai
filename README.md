@@ -4,3 +4,12 @@
 
 Dans ce sous-titre 1, il y a plein de sous-titre 1.
 
+## Voici mon sous-titre 2
+
+*Dans ce sous-titre 2, il y a plein de sous-titre 2.*
+
+## Voici mon sous-titre 3
+
+**Dans ce sous-titre 3, il y a plein de sous-titre 3.**
+
+
