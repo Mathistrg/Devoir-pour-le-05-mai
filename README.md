@@ -13,3 +13,16 @@ Dans ce sous-titre 1, il y a plein de sous-titre 1.
 **Dans ce sous-titre 3, il y a plein de sous-titre 3.**
 
 
+```python
+def hello():
+    print("Bonjour, monde!")
+
+hello()
+
+````
+
+```html
+
+<h1>Black&White</h1>
+
+````
